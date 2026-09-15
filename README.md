@@ -42,4 +42,4 @@ The purpose of this project is to understand customer purchasing patterns and id
 
 ## Dashboard Preview
 
-![Customer Analysis Dashboard](customer-analysis-dashboard.png)
+![Customer Analysis Dashboard](customer analysis.jpg)
