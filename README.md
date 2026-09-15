@@ -42,4 +42,4 @@ The purpose of this project is to understand customer purchasing patterns and id
 
 ## Dashboard Preview
 
-![2 EXCEL PROJECT.xlsx ](costomer analysis.jpg)
+![Customer Analysis Dashboard](costomer%20analysis.jpg)
